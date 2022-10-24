@@ -54,7 +54,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ankitamishra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankita%20mishra-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ankita-mishra-70367822b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankita%20mishra-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ankita_mishra1620/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankita_mishra1620-blue?style=flat-square&logo=instagram"></a>
 <a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
 <a href="https://twitter.com/AnkitaM52340536"><img alt="Instagram" src="https://img.shields.io/badge/twitter-AnkitaM52340536-blue?style=flat-square&logo=twitter"></a>

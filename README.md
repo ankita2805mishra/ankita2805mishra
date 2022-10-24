@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Ankit.</h2>
+<h2> Hey there! I'm Ankita.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -40,7 +40,7 @@
 <br/>
 <img src="https://img.shields.io/github/followers/ankita2805mishra?style=social"></img>
 
-[![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankita2805mishraa&theme=dracula)](https://github.com/ankita2805mishra/github-readme-activity-graph)
+[![Ankita's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankita2805mishra&theme=dracula)](https://github.com/ankita2805mishra/github-readme-activity-graph)
 
 <a href="https://github.com/ankita2805mishra">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankita2805mishra&show_icons=true&theme=tokyonight" />
